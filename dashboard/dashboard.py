@@ -22,7 +22,7 @@ sns.set(style='dark')
 # In[7]:
 
 
-all_data = pd.read_csv("https://raw.githubusercontent.com/Topofajar/Bangkit_Proyek-Analisis-Data_Topofajar/main/Bangkit_Dashbord/all_data%20(7).csv")
+all_data = pd.read_csv("https://raw.githubusercontent.com/mff29/AnalisisDataWithPython-Fuad/main/dashboard/all_data.csv")
 all_data.tail()
 
 
