@@ -84,7 +84,7 @@ with st.sidebar:
     st.image("https://raw.githubusercontent.com/Topofajar/Proyek-Analisis-Data-Air-Quality-Dataset/main/air pollution logo.jpg")
 
     # Feedback
-    text = st.text_area("Bagaimana perasaan Anda terhadap polusi di lingkungan Anda?")
+    text = st.text_area("Bagaimana kualitas udara di lingkungan sekitarmu?")
     st.write(text)
     
 
