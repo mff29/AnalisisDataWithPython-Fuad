@@ -81,7 +81,7 @@ week_tren_df = all_data[(all_data["datetime"] >= "2017-02-21 02:00:00") &
 
 with st.sidebar:
     # Menambahkan logo
-    st.image("https://raw.githubusercontent.com/Topofajar/Proyek-Analisis-Data-Air-Quality-Dataset/main/air pollution logo.jpg")
+    st.image("https://raw.githubusercontent.com/mff29/AnalisisDataWithPython-Fuad/main/logo.jpeg")
 
     # Feedback
     text = st.text_area("Bagaimana kualitas udara di lingkungan sekitarmu?")
