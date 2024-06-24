@@ -115,7 +115,7 @@ def visual_tahunan(loc):
 
 
 def tren_tahunan():
-    st.subheader('Pantauan Polusi Udara Tahunan')
+    st.subheader('Pengamatan Polusi Udara Tahunan')
     st.subheader('Pilih Kota :')
     col1, col2, col3 = st.columns(3)
 
@@ -270,7 +270,7 @@ def tren_PM10():
 # In[ ]:
 
 
-st.title('Pantauan Polusi Udara')
+st.title('Pengamatan Polusi Udara')
 tab1, tab2, tab3 = st.tabs(["Tren PM2.5", "Tren PM10", "Tren Tahunan"])
  
 with tab1:
